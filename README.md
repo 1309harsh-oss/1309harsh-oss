@@ -1,7 +1,4 @@
-## Hi there
-
-<!--
-**1309harsh-oss/1309harsh-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there I am Harsh Thakur
 
 Here are some ideas to get you started:
 
@@ -12,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram - _.thakur_sahab_0005, LinkedIn - Harsh Thakur , Email - 1309harsh@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Face the Failure, until the failure fails to face you.
--->
