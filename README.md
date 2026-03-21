@@ -1,3 +1,6 @@
+
+<img src="tenor.gif" alt="welcome to my github profile">
+
 # 💫 About Me:
 🔭 I’m currently working on my skills <br>🌱 I’m currently learning  different languages like flutter, Java and many more...<br> 👯 I’m looking to collaborate on github with best projects <br>💬 Ask me about my achievements which i had done till now<br>😄 Pronouns: he/him<br>⚡ Fun fact: Face the Failure, until the failure fails to face you.<br>
 
