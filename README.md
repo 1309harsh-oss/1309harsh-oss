@@ -94,11 +94,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=1309harsh-oss&show_icons=true&theme=tokyonight">
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=1309harsh-oss&theme=tokyonight">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1309harsh-oss&layout=compact&theme=tokyonight">
+
 
 </p>
 
