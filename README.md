@@ -35,7 +35,7 @@ alias      : 1309harsh-oss
 degree     : B.Tech Computer Science Engineering (2024 → 2028)
 institute  : Baderia Global Institute of Engineering & Management
 location   : Jabalpur, Madhya Pradesh, India 🇮🇳
-focus      : AI  |  Fronted Devloper  | Graphic designer
+focus      : AI/ML  |  Frontend Developer  | Graphic designer
 passion    : Building things that matter from scratch
 status     : 🟢 Open to collaborate
 ```
