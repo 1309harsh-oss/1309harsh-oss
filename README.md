@@ -29,12 +29,16 @@
 
 # 💫 About Me
 
-🔭 Currently improving my **development and problem-solving skills**  
-🌱 Learning **Flutter, Java, System Design, and Backend Development**  
-👯 Looking to **collaborate on open-source projects**  
-💬 Ask me about **Web Development, Java, Flutter, or Python**  
-⚡ Fun fact: *Face the failure until the failure fails to face you.*
-
+```yaml
+name       : Harsh Thakur
+alias      : 1309harsh-oss
+degree     : B.Tech Computer Science Engineering (2024 → 2028)
+institute  : Baderia Global Institute of Engineering & Management
+location   : Jabalpur, Madhya Pradesh, India 🇮🇳
+focus      : AI  |  Fronted Devloper  | Graphic designer
+passion    : Building things that matter from scratch
+status     : 🟢 Open to collaborate
+```
 ---
 
 # 🌐 Connect With Me
