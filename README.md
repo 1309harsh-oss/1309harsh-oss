@@ -129,5 +129,5 @@ If you like my projects and want to support my work:
 
 <div align="center">
   
-Made with ❤️ by [ElonCoding](https://github.com/ElonCoding)
+Made with ❤️ by [ElonCoding](https://github.com/ElonCoding) &  [Harsh Thakur](https://github.com/1309harsh-oss)
 </div>
