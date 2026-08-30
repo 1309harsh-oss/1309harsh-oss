@@ -95,7 +95,15 @@ status     : 🟢 Open to collaborate
 
 ## 📈 Contribution Graph
 
-[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1309harsh-oss&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1309harsh-oss&theme=2077&animation=load&name=Harsh+Thakur)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1309harsh-oss&theme=2077&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1309harsh-oss&theme=2077&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1309harsh-oss&theme=2077&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1309harsh-oss&theme=2077&animation=load&utcOffset=0)
+
+</div>
 
 ---
 
